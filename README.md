@@ -28,4 +28,3 @@ O protótipo das telas foi desenvolvido no Figma.
 - Python
 - Figma
 - GitHub
-- GitHub)
